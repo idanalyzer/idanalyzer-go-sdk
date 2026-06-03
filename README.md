@@ -2,7 +2,7 @@
 > # ⚠️ DEPRECATED — use the v2 SDK
 > This is the legacy **API v1** Go SDK. Its import path is an unofficial fork
 > (`github.com/danhunsaker/idanalyzer-go-sdk`) and it targets the older
-> `api.idanalyzer.com` fleet; it is no longer maintained.
+> `api.idanalyzer.com` endpoint; it is no longer maintained.
 >
 > **New projects should use the official API v2 Go SDK:**
 > [`github.com/idanalyzer/id-analyzer-v2-go`](https://github.com/idanalyzer/id-analyzer-v2-go)
