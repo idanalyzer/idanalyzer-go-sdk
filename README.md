@@ -1,3 +1,13 @@
+<!-- markdownlint-disable -->
+> # ⚠️ DEPRECATED — use the v2 SDK
+> This is the legacy **API v1** Go SDK. Its import path is an unofficial fork
+> (`github.com/danhunsaker/idanalyzer-go-sdk`) and it targets the older
+> `api.idanalyzer.com` fleet; it is no longer maintained.
+>
+> **New projects should use the official API v2 Go SDK:**
+> [`github.com/idanalyzer/id-analyzer-v2-go`](https://github.com/idanalyzer/id-analyzer-v2-go)
+> (`go get github.com/idanalyzer/id-analyzer-v2-go`).
+
 # ID Analyzer Go SDK
 This is a Go SDK for [ID Analyzer Identity Verification APIs](https://www.idanalyzer.com), though all the APIs can be called with without the SDK using simple HTTP requests as outlined in the [documentation](https://developer.idanalyzer.com), you can use this SDK to accelerate server-side development.
 
